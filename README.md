@@ -48,8 +48,11 @@ npm run dev
 ## Rotas
 
 app.get: http://localhost:3000/inventario
+
 app.post: http://localhost:3000/inventario
+
 app.delete: http://localhost:3000/inventario/:id
+
 app.put: http://localhost:3000/inventario/:id
 
 ## Exemplos de requisições
