@@ -48,17 +48,15 @@ npm run dev
 ## Rotas
 
 app.get: http://localhost:3000/inventario
-
 app.post: http://localhost:3000/inventario
-
 app.delete: http://localhost:3000/inventario/:id
-
 app.put: http://localhost:3000/inventario/:id
 
 ## Exemplos de requisições
 - Create POST: http://localhost:3000/inventario
 - Corpo
 
+```JSON
 {
         "item": "Notebook Samsung",
         "local": "Sala 05",
@@ -66,9 +64,11 @@ app.put: http://localhost:3000/inventario/:id
         "valor": 3000.00,
         "patrimonio": "PAT-00127"
 }
+```
 
 - Resposta
 
+```JSON
 {
         "id": 3,
         "item": "Notebook Samsung",
@@ -77,9 +77,11 @@ app.put: http://localhost:3000/inventario/:id
         "valor": 3000.00,
         "patrimonio": "PAT-00127"
 }
+```
 
 - Update PUT: http://localhost:3000/inventario/:id
 
+```JSON
 {
         "item": "Notebook AOC",
         "local": "Sala 04",
@@ -87,9 +89,11 @@ app.put: http://localhost:3000/inventario/:id
         "valor": 2900.00,
         "patrimonio": "PAT-00128
 }
+```
 
 - Resposta
 
+```JSON
 {
         "id": 4,
         "item": "Notebook AOC",
@@ -98,6 +102,7 @@ app.put: http://localhost:3000/inventario/:id
         "valor": 2990.00,
         "patrimonio": "PAT-00129
 }
+```
 
 ## Testes com extensão Thunder Client do VsCode
 
