@@ -1,5 +1,5 @@
 # Aula7_Atividade
-## API Empresa de Notebooks
+## API Empresa de Tecnologia
 
 Projeto exemplo para aula de desenvolvimento de sistemas backend utilizando dados em mockup JSON
 
