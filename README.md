@@ -109,10 +109,11 @@ app.put: http://localhost:3000/inventario/:id
 
 ## Testes com extensão Thunder Client do VsCode
 
-<img width="1881" height="771" alt="image" src="https://github.com/user-attachments/assets/7384554a-3467-4e45-b09c-cf445d9af8db" />
+<img width="904" height="800" alt="image" src="https://github.com/user-attachments/assets/950888fe-8917-46cc-b68b-3b2a7ffe2ae0" />
 
-<img width="1841" height="715" alt="image" src="https://github.com/user-attachments/assets/69a5b8d4-6cfb-441c-80b1-37716d5441c0" />
+<img width="915" height="965" alt="image" src="https://github.com/user-attachments/assets/def77966-c98a-4e0d-a77c-98e109ca8a2f" />
 
-<img width="1852" height="849" alt="image" src="https://github.com/user-attachments/assets/712d7144-f73e-4971-82f2-aa4de94fc681" />
+<img width="858" height="900" alt="image" src="https://github.com/user-attachments/assets/b6b648a7-e8de-4fa0-9a3b-7680064ae9c7" />
 
-<img width="1766" height="798" alt="image" src="https://github.com/user-attachments/assets/56ad4dfc-9db2-4329-9afc-e3697702981a" />
+<img width="858" height="900" alt="image" src="https://github.com/user-attachments/assets/693e3718-083b-4ef3-b092-984aa86c338b" />
+
