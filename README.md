@@ -98,11 +98,10 @@ app.put: http://localhost:3000/inventario/:id
 
 ## Testes com extensão Thunder Client do VsCode
 
-<img width="669" height="772" alt="Captura de tela 2025-04-30 132616" src="https://github.com/user-attachments/assets/c8d1ee7c-8ca6-48c3-8411-8b3eb7e29e5a" />
+<img width="1881" height="771" alt="image" src="https://github.com/user-attachments/assets/7384554a-3467-4e45-b09c-cf445d9af8db" />
 
-<img width="669" height="772" alt="Captura de tela 2025-04-30 132616" src="https://github.com/user-attachments/assets/65d8816a-e0cb-4221-a038-fd41517e9d1f" />
+<img width="1841" height="715" alt="image" src="https://github.com/user-attachments/assets/69a5b8d4-6cfb-441c-80b1-37716d5441c0" />
 
-<img width="669" height="772" alt="Captura de tela 2025-04-30 132616" src="https://github.com/user-attachments/assets/71d5a13d-ab50-4d5a-b229-9018dac220ea" />
+<img width="1852" height="849" alt="image" src="https://github.com/user-attachments/assets/712d7144-f73e-4971-82f2-aa4de94fc681" />
 
-<img width="669" height="772" alt="Captura de tela 2025-04-30 132616" src="https://github.com/user-attachments/assets/7eda0819-5565-4be9-be4e-c0872bc64c65" />
-
+<img width="1766" height="798" alt="image" src="https://github.com/user-attachments/assets/56ad4dfc-9db2-4329-9afc-e3697702981a" />
