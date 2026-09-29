@@ -115,5 +115,4 @@ app.put: http://localhost:3000/inventario/:id
 
 <img width="858" height="900" alt="image" src="https://github.com/user-attachments/assets/b6b648a7-e8de-4fa0-9a3b-7680064ae9c7" />
 
-<img width="858" height="900" alt="image" src="https://github.com/user-attachments/assets/693e3718-083b-4ef3-b092-984aa86c338b" />
-
+<img width="913" height="989" alt="image" src="https://github.com/user-attachments/assets/71db2fae-ce08-46b4-9af6-717165754401" />
